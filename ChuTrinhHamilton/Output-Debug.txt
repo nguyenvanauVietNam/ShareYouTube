@@ -1,0 +1,261 @@
+﻿'Do_an_monhoc.exe' (Win32): Loaded 'E:\visual\Do_an_monhoc\Debug\Do_an_monhoc.exe'. Symbols loaded.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mscoree.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcr120_clr0400.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\psapi.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\psapi.dll'
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\f42a27fd30d9a54b9eb8cba239c2611f\mscorlib.ni.dll'. 
+'Do_an_monhoc.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'E:\visual\Do_an_monhoc\Debug\Do_an_monhoc.exe'. Symbols loaded.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System\6b06ac83af180d308f3f484bcb050591\System.ni.dll'. 
+'Do_an_monhoc.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Drawing\9fa7853b7f08f94f82fdcd1b36939641\System.Drawing.ni.dll'. 
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms\c9287eaf630bc35ce3ac0111feec2bdb\System.Windows.Forms.ni.dll'. 
+'Do_an_monhoc.exe' (CLR v4.0.30319: Do_an_monhoc.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Do_an_monhoc.exe' (CLR v4.0.30319: Do_an_monhoc.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. 
+'Do_an_monhoc.exe' (Win32): Unloaded 'C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\9be722d8c68270a743a0aea762f40e2d\System.Core.ni.dll'. 
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\7a2516f4eb29b02b8d4b39118f3d76ec\System.Configuration.ni.dll'. 
+'Do_an_monhoc.exe' (CLR v4.0.30319: Do_an_monhoc.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Do_an_monhoc.exe' (CLR v4.0.30319: Do_an_monhoc.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\0d02952a8eb80d5163a9fbe555e70733\System.Xml.ni.dll'. 
+'Do_an_monhoc.exe' (CLR v4.0.30319: Do_an_monhoc.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.16299.19_none_2c2d4ca717b1155e\comctl32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.19_none_1440318736920367\comctl32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.16299.19_none_9407a0a54a2a1f8f\GdiPlus.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\DWrite.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\clbcatq.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\UIAutomationCore.dll'. Cannot find or open the PDB file.
+onecore\com\combase\inc\comcataloghelpers.hpp(67)\combase.dll!76758550: (caller: 767582E0) ReturnHr(1) tid(2f4) 80004002 No such interface supported
+mincore\com\oleaut32\dispatch\ups.cpp(2125)\OLEAUT32.dll!75A9234F: (caller: 75A91EF1) ReturnHr(1) tid(b48) 8002801D Library not registered.
+mincore\com\oleaut32\dispatch\ups.cpp(2125)\OLEAUT32.dll!75A9234F: (caller: 75A91EF1) ReturnHr(2) tid(b48) 8002801D Library not registered.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sxs.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\Accessibility\9fdc66b32b10aadfe81064d74da150ed\Accessibility.ni.dll'. 
+'Do_an_monhoc.exe' (CLR v4.0.30319: Do_an_monhoc.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleacc.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\comdlg32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\windows.storage.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cldapi.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\fltLib.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\aepic.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcrypt.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptsp.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\atlthunk.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\edputil.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ExplorerFrame.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dui70.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\duser.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WindowsCodecs.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\thumbcache.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\DataExchange.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\d3d11.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dcomp.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dxgi.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\twinapi.appcore.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rmclient.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msftedit.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\Windows.Globalization.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\BCP47Langs.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\globinputhost.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\propsys.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\xmllite.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\StructuredQuery.dll'. Cannot find or open the PDB file.
+The thread 0x1990 has exited with code 0 (0x0).
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\Windows.StateRepositoryPS.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\Windows.Storage.Search.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\IconCodecService.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\policymanager.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp110_win.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mpr.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\drprov.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winsta.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\coml2.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntlanman.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\davclnt.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\davhlpr.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wkscli.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\linkinfo.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cscapi.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\netutils.dll'. Cannot find or open the PDB file.
+Exception thrown at 0x776808B2 (KernelBase.dll) in Do_an_monhoc.exe: 0x000006BA: The RPC server is unavailable.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dlnashext.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\PlayToDevice.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\DevDispItemProvider.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\MMDevAPI.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\twinapi.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wpdshext.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\PortableDeviceApi.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\audiodev.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WMVCORE.DLL'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WMASF.DLL'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mfperfhelper.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mfplat.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\RTWorkQ.dll'. Cannot find or open the PDB file.
+onecoreuap\shell\windows.storage\kfapi\folderpathidlistcache.cpp(208)\windows.storage.dll!7621195C: (caller: 7620FEEC) LogHr(1) tid(b48) 80070002 The system cannot find the file specified.
+onecoreuap\shell\windows.storage\kfapi\folderpathidlistcache.cpp(208)\windows.storage.dll!7621195C: (caller: 7620FEEC) LogHr(2) tid(b48) 80070002 The system cannot find the file specified.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntshrui.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\srvcli.dll'. Cannot find or open the PDB file.
+onecoreuap\shell\ext\thumbnailcache\lib\thumbcacheapi.cpp(287)\thumbcache.dll!524F3C36: (caller: 524E1E31) ReturnHr(1) tid(b48) 80004005 Unspecified error
+onecoreuap\shell\ext\thumbnailcache\lib\thumbcacheapi.cpp(161)\thumbcache.dll!52500B0E: (caller: 765E2CF5) ReturnHr(2) tid(b48) 80004005 Unspecified error
+onecoreuap\shell\windows.storage\kfapi\folderpathidlistcache.cpp(208)\windows.storage.dll!7621195C: (caller: 7620FEEC) LogHr(3) tid(b48) 80070002 The system cannot find the file specified.
+onecoreuap\shell\windows.storage\kfapi\folderpathidlistcache.cpp(208)\windows.storage.dll!7621195C: (caller: 7620FEEC) LogHr(4) tid(b48) 80070002 The system cannot find the file specified.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\provsvc.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ws2_32.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmmbase.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Program Files (x86)\Common Files\microsoft shared\MSEnv\VSFileHandler.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\actxprxy.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Users\Nguyen Van Au\AppData\Local\Microsoft\OneDrive\17.3.7074.1023\FileSyncShell.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wininet.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\networkexplorer.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Program Files (x86)\MIF5BA~1\Office16\GROOVEEX.DLL'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msi.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Program Files (x86)\MIF5BA~1\Office16\1033\GrooveIntlResource.dll'. Module was built without symbols.
+'Do_an_monhoc.exe' (Win32): Unloaded 'C:\Program Files (x86)\MIF5BA~1\Office16\1033\GrooveIntlResource.dll'
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Program Files (x86)\MIF5BA~1\Office16\1033\GrooveIntlResource.dll'. Module was built without symbols.
+shell\comdlg32\fileopensave.cpp(10675)\comdlg32.dll!77899BAF: (caller: 7789D347) ReturnHr(1) tid(b48) 80004005 Unspecified error
+    CallContext:[\PickerModalLoop] 
+The thread 0x20cc has exited with code 0 (0x0).
+'Do_an_monhoc.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\msftedit.dll'
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(1) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(2) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(3) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(4) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(5) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(6) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(7) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(8) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(9) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(10) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(11) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(12) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(13) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(14) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(15) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(16) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(17) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(18) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(19) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(20) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(21) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(22) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(23) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(24) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(25) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(26) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(27) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(28) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(29) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(30) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(31) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(32) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(33) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(34) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(35) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(36) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(37) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(38) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(39) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(40) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(41) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(42) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(43) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(44) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(45) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(46) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\drivfldr.cpp(1420)\windows.storage.dll!7636A028: (caller: 762F2FA5) ReturnHr(47) tid(b48) 8007000F The system cannot find the drive specified.
+onecoreuap\shell\windows.storage\regfldr.cpp(1239)\windows.storage.dll!7624ED09: (caller: 7624C430) ReturnHr(48) tid(b48) 8007000F The system cannot find the drive specified.
+'Do_an_monhoc.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\xmllite.dll'
+The thread 0x192c has exited with code 0 (0x0).
+'Do_an_monhoc.exe' (Win32): Unloaded 'C:\Program Files (x86)\Common Files\microsoft shared\MSEnv\VSFileHandler.dll'
+'Do_an_monhoc.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\WMASF.DLL'
+'Do_an_monhoc.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\mfperfhelper.dll'
+'Do_an_monhoc.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\WMVCORE.DLL'
+'Do_an_monhoc.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\audiodev.dll'
+'Do_an_monhoc.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\wpdshext.dll'
+The thread 0x13ac has exited with code 0 (0x0).
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Deployment\1af753728a7f0fc8a0005f05aa6955a1\System.Deployment.ni.dll'. 
+'Do_an_monhoc.exe' (CLR v4.0.30319: Do_an_monhoc.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Deployment\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Deployment.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\psapi.dll'. Cannot find or open the PDB file.
+onecoreuap\shell\windows.storage\sharedstoragesources\util.cpp(6571)\windows.storage.dll!762E2F15: (caller: 762E2D44) ReturnHr(49) tid(b48) 80004002 No such interface supported
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\urlmon.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imagehlp.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\iertutil.dll'. Cannot find or open the PDB file.
+'Do_an_monhoc.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msIso.dll'. Cannot find or open the PDB file.
+onecoreuap\inetcore\urlmon\zones\zoneidentifier.cxx(359)\urlmon.dll!6E7C5DC7: (caller: 6E7C6CF8) ReturnHr(1) tid(b48) 80070002 The system cannot find the file specified.
+The thread 0x123c has exited with code 0 (0x0).
+The thread 0xe48 has exited with code 0 (0x0).
+The thread 0x9c0 has exited with code 0 (0x0).
+The thread 0x128 has exited with code 0 (0x0).
+The thread 0x39c has exited with code 0 (0x0).
+The thread 0x2f4 has exited with code 0 (0x0).
+The thread 0x21e4 has exited with code 0 (0x0).
+The thread 0x1858 has exited with code 0 (0x0).
+The thread 0x281c has exited with code 0 (0x0).
+The thread 0xa6c has exited with code 0 (0x0).
+The thread 0x1edc has exited with code 0 (0x0).
+The thread 0x29f4 has exited with code 0 (0x0).
+The thread 0x1364 has exited with code 0 (0x0).
+The thread 0xdac has exited with code 0 (0x0).
+The thread 0x1fd4 has exited with code 0 (0x0).
+The thread 0x2af8 has exited with code 0 (0x0).
+The thread 0x78c has exited with code 0 (0x0).
+The thread 0x24e0 has exited with code 0 (0x0).
+The thread 0xd20 has exited with code 0 (0x0).
+The thread 0xe8 has exited with code 0 (0x0).
+The thread 0x2858 has exited with code 0 (0x0).
+The thread 0x2414 has exited with code 0 (0x0).
+The thread 0x2724 has exited with code 0 (0x0).
+The program '[10144] Do_an_monhoc.exe' has exited with code 0 (0x0).
